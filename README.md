@@ -1,10 +1,11 @@
 # RLearning :
 Exploit Reinforcement Learning using OpenAI api 
 
-#Description :
+# Description :
 I implemented Q learning using simple q-table (with Bellman equation)<br>
 And Try to define deep q learning with a neural net
-#TODO:
+
+# TODO:
    - implemented a simple Deep Q Learning (Keras)
    - Try to generalize the pipeline (any use case or large use case)
    
